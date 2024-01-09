@@ -12,7 +12,7 @@ Additionally, it offered an opportunity to delve into game mechanics such as jum
 
 
 ## How to play 🎮<br>
-To experience this exciting adventure, visit [link to itch.io page] to download the build and play the game.<br>
+To experience this exciting adventure, visit behavez.itch.io/revenge-of-thor to download the build and play the game.<br>
 Use the left and right arrow keys (or 'A' and 'D' keys) to move Thor across the levels. Press the spacebar to make Thor jump over obstacles and navigate the challenges along the way. Enjoy the adventure and triumph over each level to progress further! 
 
 ## Acknowledgments 🙌
