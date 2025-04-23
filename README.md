@@ -1,4 +1,6 @@
 # UE5_RevengeOfThor 🕹️ <br>
+![Unreal Engine](https://img.shields.io/badge/engine-Unreal%20Engine-000?logo=unrealengine) ![Itch.io](https://img.shields.io/badge/play-it%20on%20Itch.io-red?logo=itch-dot-io) ![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 An engaging 2D platformer created in Unreal Engine 5, starring Thor, the God of Thunder. Traverse multiple challenging levels, overcoming obstacles to reach the gate and advance further. Experience the thrill of playing as the mighty Thor in this exciting adventure!⚡️<br>
 
 ## About the project 💻 <br>
